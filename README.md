@@ -10,6 +10,7 @@
 ### ●	 Autodesk Fusion 360
 ### ●	 System - Windows 7 or higher, 1 GB RAM.
 
+
 ## PROCEDURE:
 ### Step 1.:- Duplicate all the geometric features for the given object using vernier caliper, measuring tapes or any instruments provided
 ### Step 2.:- Design the geometric features in 3D using auto desk fusion 360.
@@ -31,7 +32,7 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![img11](https://github.com/Gchethankumar/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118348224/f30b9a7b-e38a-41e0-8561-c8cca9c6c032)
+![img11](https://github.com/Gchethankumar/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118348224/25282391-df8d-4eaf-93d3-0dd758d26594)
 
 ### Output:
 ```
